@@ -111,7 +111,7 @@ ____
 > shift+右击 选择复制为路径
 >
 > 点击复制路径快捷键
-> ![](https://cdn.jsdelivr.net/gh/cerebellumking/image/img/202108211125100.png)
+> ![我的图片](https://cdn.jsdelivr.net/gh/cerebellumking/image/img/202108211125100.png)
 
 
 
